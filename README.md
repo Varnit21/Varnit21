@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/varnit69" target="blank"><img src="https://img.shields.io/twitter/follow/varnit69?logo=twitter&style=for-the-badge" alt="varnit69" /></a> </p>
 
-- 🔭 I’m currently working on [Wrong Bot](https://github.com/Varnit21/levelling-bot-discord)
-
-- 🌱 I’m currently learning **DSA**
-
-- 📫 How to reach me **varnitbr21@gmail.com**
+- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: varnitbr21@gmail.com
+- 😄 Pronouns: Programmer/He/His/Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
